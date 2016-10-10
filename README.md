@@ -7,7 +7,7 @@ No. : 06<br>
 Sekolah : SMK Telkom Malang<br>
 <br>
 <br><b>SCREENSHOOT HASIL APLIKASI</b>
-<br><br>Screenshoot 1<br>
-![Gambar](----)<br>
-<br><br>Screenshoot 2<br>
-![Gambar](----)
+<br><br>Screenshoot Home<br>
+![Gambar](https://raw.githubusercontent.com/Aldhofransnanda/ActivityLivecycle/master/ActivityLivecycle%2310%23Music.png)<br>
+<br><br>Screenshoot Homescreen<br>
+![Gambar](https://raw.githubusercontent.com/Aldhofransnanda/ActivityLivecycle/master/ActivityLivecycle%2310%23Home.png)
